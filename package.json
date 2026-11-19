@@ -1,0 +1,17 @@
+{
+  "name": "prime_number_checker",
+  "version": "1.0.0",
+  "description": "Program to check if the provided integer number is prime.",
+  "keywords": [
+    "prime",
+    "checker",
+    "package"
+  ],
+  "license": "MIT",
+  "author": "engapantio",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  }
+}
